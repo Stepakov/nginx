@@ -9,5 +9,6 @@
 </head>
 <body>
 Hello from nginx lalskdfsajdflkj
+<?php echo date( 'Y' ); ?>
 </body>
 </html>
